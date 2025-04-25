@@ -1,4 +1,5 @@
-E-Commerce Database Schema 🛍️
+E-Commerce Database Schema 
+
 Overview
 This MySQL database schema provides a comprehensive foundation for an e-commerce platform, supporting product management with variations, categories, attributes, and inventory tracking.
 
